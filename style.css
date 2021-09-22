@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap'); */
 
 * {
   margin: 0;
@@ -104,9 +104,10 @@ video {
 .content h1 {
   font-size: 5rem;
   font-weight: normal;
-  letter-spacing: 0.2rem;
   color: #F1F1F1;
   text-align: center;
+  line-height: 1;
+  width: 90%;
 }
 .content span {
   color: #D6C3A5;
@@ -150,5 +151,8 @@ video {
   .nav-sm {
     margin-top: 0;
     margin-left: 1.5rem;
+  }
+  .content h1 {
+      letter-spacing: 0.2rem;
   }
 }

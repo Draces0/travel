@@ -2,7 +2,7 @@
 
 A responsive Fullscreen video page made by **Draces** team as first project.
 
-Preview it on **netlify** [here](https://dracestravel.netlify.app/)
+Review it on **netlify** [here](https://dracestravel.netlify.app/)
 
 ## Draces Members
 
